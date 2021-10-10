@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hackathon-react-dream-team/static/css/main.ebaadf36.chunk.css",
-    "main.js": "/hackathon-react-dream-team/static/js/main.e95e7ac9.chunk.js",
-    "main.js.map": "/hackathon-react-dream-team/static/js/main.e95e7ac9.chunk.js.map",
-    "runtime-main.js": "/hackathon-react-dream-team/static/js/runtime-main.c8fcca92.js",
-    "runtime-main.js.map": "/hackathon-react-dream-team/static/js/runtime-main.c8fcca92.js.map",
-    "static/css/2.55c710d8.chunk.css": "/hackathon-react-dream-team/static/css/2.55c710d8.chunk.css",
-    "static/js/2.6a813f3b.chunk.js": "/hackathon-react-dream-team/static/js/2.6a813f3b.chunk.js",
-    "static/js/2.6a813f3b.chunk.js.map": "/hackathon-react-dream-team/static/js/2.6a813f3b.chunk.js.map",
-    "index.html": "/hackathon-react-dream-team/index.html",
-    "static/css/2.55c710d8.chunk.css.map": "/hackathon-react-dream-team/static/css/2.55c710d8.chunk.css.map",
-    "static/css/main.ebaadf36.chunk.css.map": "/hackathon-react-dream-team/static/css/main.ebaadf36.chunk.css.map",
-    "static/js/2.6a813f3b.chunk.js.LICENSE.txt": "/hackathon-react-dream-team/static/js/2.6a813f3b.chunk.js.LICENSE.txt",
-    "static/media/bootstrap-icons.css": "/hackathon-react-dream-team/static/media/bootstrap-icons.dfd0ea12.woff2"
+    "main.css": "/static/css/main.ebaadf36.chunk.css",
+    "main.js": "/static/js/main.e95e7ac9.chunk.js",
+    "main.js.map": "/static/js/main.e95e7ac9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bf96d2b8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bf96d2b8.js.map",
+    "static/css/2.ade9d427.chunk.css": "/static/css/2.ade9d427.chunk.css",
+    "static/js/2.6a813f3b.chunk.js": "/static/js/2.6a813f3b.chunk.js",
+    "static/js/2.6a813f3b.chunk.js.map": "/static/js/2.6a813f3b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ade9d427.chunk.css.map": "/static/css/2.ade9d427.chunk.css.map",
+    "static/css/main.ebaadf36.chunk.css.map": "/static/css/main.ebaadf36.chunk.css.map",
+    "static/js/2.6a813f3b.chunk.js.LICENSE.txt": "/static/js/2.6a813f3b.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.dfd0ea12.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8fcca92.js",
-    "static/css/2.55c710d8.chunk.css",
+    "static/js/runtime-main.bf96d2b8.js",
+    "static/css/2.ade9d427.chunk.css",
     "static/js/2.6a813f3b.chunk.js",
     "static/css/main.ebaadf36.chunk.css",
     "static/js/main.e95e7ac9.chunk.js"
